@@ -1,8 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:374151&height=160&section=header&text=Nabil&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="header banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:374151&height=160&section=header&text=Hi+I'm+Nabil&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="header banner" />
 </p>
 
-<h1 align="center">Hi, I'm Nabil</h1>
 <p align="center">
   I build clean, practical, and well-structured digital experiences.
 </p>
