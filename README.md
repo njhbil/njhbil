@@ -30,7 +30,7 @@
 
 ## Skills & Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,nodejs,express,python,php,tailwind,git,github,vscode" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,cpp,html,css,javascript,typescript,react,nextjs,python,php,tailwind,git,github,vscode" alt="skills" />
 </p>
 
 ---
