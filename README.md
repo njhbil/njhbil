@@ -1,56 +1,147 @@
+<!-- ======================= HEADER ======================= -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:374151&height=160&section=header&text=Hi%2C%20I%27m%20Nabil&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="header" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:080D18,50:14253D,100:31506F&height=210&section=header&text=NABIL%20AKBAR&fontSize=48&fontColor=F1F5F9&fontAlignY=36&animation=fadeIn&desc=SOFTWARE%20ENGINEERING%20%2F%20WEB%20DEVELOPMENT&descSize=13&descAlignY=57&descColor=93C5FD"
+    width="100%"
+    alt="Nabil Akbar"
+  />
 </p>
 
 <p align="center">
-  I build clean, practical, and well-structured digital experiences.
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2800&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Building+ideas+into+working+software.;Curiosity+drives+the+process.;Thoughtful+engineering.+Practical+solutions."
+    alt="Animated introduction"
+  />
 </p>
 
 <p align="center">
   <a href="https://github.com/njhbil">
-    <img src="https://img.shields.io/badge/GitHub-njhbil-181717?style=flat-square&logo=github" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-0B1020?style=flat-square&logo=github&logoColor=F1F5F9" alt="GitHub" />
   </a>
-  <a href="https://github.com/njhbil?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-View%20Projects-2ea44f?style=flat-square&logo=github" alt="Repositories" />
+  <a href="https://www.linkedin.com/in/nabillkbr">
+    <img src="https://img.shields.io/badge/LinkedIn-0B1020?style=flat-square&logo=linkedin&logoColor=7DD3FC" alt="LinkedIn" />
   </a>
   <a href="https://njhbil.my.id">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-0a66c2?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-0B1020?style=flat-square&logo=googlechrome&logoColor=7DD3FC" alt="Portfolio" />
   </a>
 </p>
 
----
-
-## About Me
-- I'm **Nabil**
-- I enjoy learning and building polished projects
-- I'm focused on growing as a developer
-- I value simple, clear, and functional design
-
----
-
-## Skills & Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,cpp,html,css,javascript,typescript,react,nextjs,python,php,tailwind,git,github,vscode" alt="skills" />
+<p align="center">
+  <samp>INFORMATICS @ UNESA &nbsp; · &nbsp; SOFTWARE &nbsp; · &nbsp; WEB</samp>
 </p>
 
----
+<br>
 
-## GitHub Stats
+<!-- ======================== ABOUT ======================== -->
+
+<h2 align="center">01 &nbsp; / &nbsp; ABOUT</h2>
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=njhbil&theme=transparent&hide_border=true" alt="GitHub Streak" height="170" />
+  I'm Nabil, an Informatics student passionate about software engineering
+  and web development.
+  <br><br>
+  I enjoy understanding how systems work, solving problems through code,
+  and building digital products with purpose.
 </p>
 
----
+<p align="center">
+  <code>Understand the problem.</code>
+  &nbsp;
+  <code>Build the solution.</code>
+  &nbsp;
+  <code>Keep refining.</code>
+</p>
 
-## Connect
-- LinkedIn: https://www.linkedin.com/in/nabillkbr
-- Portfolio: https://njhbil.my.id
+<br>
 
----
+<!-- ====================== TECH STACK ===================== -->
 
-## Fun Fact
-I treat clean code like good design: if it feels effortless to use, every tiny detail was intentional.
+<h2 align="center">02 &nbsp; / &nbsp; TECH STACK</h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26n6WywJyh39n1pBu/giphy.gif" width="280" alt="coding gif" />
+  <sub>LANGUAGES</sub>
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,cpp,php" alt="Programming languages" />
+</p>
+
+<p align="center">
+  <sub>DEVELOPMENT</sub>
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,html,css,tailwind" alt="Development technologies" />
+</p>
+
+<p align="center">
+  <sub>DATABASE & TOOLS</sub>
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" alt="Databases and development tools" />
+</p>
+
+<br>
+
+<!-- ======================= PROJECTS ====================== -->
+
+<h2 align="center">03 &nbsp; / &nbsp; SELECTED WORK</h2>
+
+<table>
+  <tr>
+    <td width="100%">
+      <p>
+        <strong>◈ &nbsp; CegahScam</strong>
+      </p>
+      A digital-safety concept designed to help people recognize potential scams,
+      analyze suspicious messages, access reporting guidance, and improve
+      their awareness of online threats.
+      <br><br>
+      <code>WEB DEVELOPMENT</code>
+      &nbsp;
+      <code>PROBLEM SOLVING</code>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<!-- ===================== GITHUB STATS ==================== -->
+
+<h2 align="center">04 &nbsp; / &nbsp; GITHUB ACTIVITY</h2>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=njhbil&show_icons=true&hide_border=true&bg_color=0B1020&title_color=7DD3FC&text_color=C9D5E5&icon_color=60A5FA&rank_icon=github"
+    height="165"
+    alt="GitHub statistics"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=njhbil&bg_color=0B1020&color=C9D5E5&line=60A5FA&point=7DD3FC&area=true&hide_border=true&custom_title=CONTRIBUTION%20TIMELINE"
+    width="100%"
+    alt="GitHub contribution activity"
+  />
+</p>
+
+<br>
+
+<!-- ======================== FOOTER ======================= -->
+
+<p align="center">
+  <samp>
+    BUILD WITH PURPOSE. REFINE WITH EVERY ITERATION.
+  </samp>
+</p>
+
+<p align="center">
+  <a href="https://njhbil.my.id">
+    <img src="https://img.shields.io/badge/EXPLORE%20MY%20WORK-14253D?style=for-the-badge&logo=googlechrome&logoColor=7DD3FC" alt="Explore my portfolio" />
+  </a>
+</p>
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:31506F,50:14253D,100:080D18&height=100&section=footer"
+    width="100%"
+    alt=""
+  />
 </p>
