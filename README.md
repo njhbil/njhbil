@@ -62,19 +62,28 @@
 <p align="center">
   <sub>LANGUAGES</sub>
   <br><br>
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,cpp,php" alt="Programming languages" />
+  <img
+    src="https://skillicons.dev/icons?i=javascript,typescript,python,cpp,php&theme=dark"
+    alt="Programming languages"
+  />
 </p>
 
 <p align="center">
   <sub>DEVELOPMENT</sub>
   <br><br>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,html,css,tailwind" alt="Development technologies" />
+  <img
+    src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,html,css,tailwind&theme=dark"
+    alt="Development technologies"
+  />
 </p>
 
 <p align="center">
   <sub>DATABASE & TOOLS</sub>
   <br><br>
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" alt="Databases and development tools" />
+  <img
+    src="https://skillicons.dev/icons?i=mysql,git,github,vscode&theme=dark"
+    alt="Databases and development tools"
+  />
 </p>
 
 <br>
@@ -119,14 +128,25 @@
     height="165"
     alt="GitHub statistics"
   />
+  <img
+    src="https://streak-stats.demolab.com?user=njhbil&hide_border=true&background=0B1020&ring=7DD3FC&fire=60A5FA&currStreakLabel=7DD3FC&sideLabels=C9D5E5&currStreakNum=F1F5F9&sideNums=F1F5F9&dates=64748B"
+    height="165"
+    alt="GitHub streak"
+  />
 </p>
 
+<br>
+
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=njhbil&bg_color=0B1020&color=C9D5E5&line=60A5FA&point=7DD3FC&area=true&hide_border=true&custom_title=CONTRIBUTION%20TIMELINE"
-    width="100%"
-    alt="GitHub contribution activity"
-  />
+  <sub>CONTRIBUTION CALENDAR</sub>
+  <br><br>
+  <a href="https://github.com/njhbil">
+    <img
+      src="https://ghchart.rshah.org/7DD3FC/njhbil"
+      alt="GitHub contribution calendar for njhbil"
+      width="100%"
+    />
+  </a>
 </p>
 
 <br>
@@ -139,7 +159,10 @@
 
 <p align="center">
   <a href="https://njhbil.my.id">
-    <img src="https://img.shields.io/badge/EXPLORE%20MY%20WORK-14253D?style=for-the-badge&logo=googlechrome&logoColor=7DD3FC" alt="Explore my portfolio" />
+    <img
+      src="https://img.shields.io/badge/EXPLORE%20MY%20WORK-14253D?style=for-the-badge&logo=googlechrome&logoColor=7DD3FC"
+      alt="Explore my portfolio"
+    />
   </a>
 </p>
 
