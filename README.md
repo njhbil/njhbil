@@ -38,11 +38,11 @@
 <h2 align="center">01 &nbsp; / &nbsp; ABOUT</h2>
 
 <p align="center">
-  I'm Nabil, an Informatics student passionate about software engineering
+  I'm Nabil, an Informatics student interested in software engineering
   and web development.
   <br><br>
   I enjoy understanding how systems work, solving problems through code,
-  and building digital products with purpose.
+  and turning ideas into digital experiences.
 </p>
 
 <p align="center">
@@ -62,28 +62,19 @@
 <p align="center">
   <sub>LANGUAGES</sub>
   <br><br>
-  <img
-    src="https://skillicons.dev/icons?i=javascript,typescript,python,cpp,php&theme=dark"
-    alt="Programming languages"
-  />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,cpp,php&theme=dark" alt="Programming languages" />
 </p>
 
 <p align="center">
   <sub>DEVELOPMENT</sub>
   <br><br>
-  <img
-    src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,html,css,tailwind&theme=dark"
-    alt="Development technologies"
-  />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,html,css,tailwind&theme=dark" alt="Development technologies" />
 </p>
 
 <p align="center">
   <sub>DATABASE & TOOLS</sub>
   <br><br>
-  <img
-    src="https://skillicons.dev/icons?i=mysql,git,github,vscode&theme=dark"
-    alt="Databases and development tools"
-  />
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode&theme=dark" alt="Databases and development tools" />
 </p>
 
 <br>
@@ -118,36 +109,33 @@
 
 <br>
 
-<!-- ===================== GITHUB STATS ==================== -->
+<!-- ===================== DEV TERMINAL ==================== -->
 
-<h2 align="center">04 &nbsp; / &nbsp; GITHUB ACTIVITY</h2>
+<h2 align="center">04 &nbsp; / &nbsp; DEV SESSION</h2>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=njhbil&show_icons=true&hide_border=true&bg_color=0B1020&title_color=7DD3FC&text_color=C9D5E5&icon_color=60A5FA&rank_icon=github"
-    height="165"
-    alt="GitHub statistics"
-  />
-  <img
-    src="https://streak-stats.demolab.com?user=njhbil&hide_border=true&background=0B1020&ring=7DD3FC&fire=60A5FA&currStreakLabel=7DD3FC&sideLabels=C9D5E5&currStreakNum=F1F5F9&sideNums=F1F5F9&dates=64748B"
-    height="165"
-    alt="GitHub streak"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=2600&pause=800&color=7DD3FC&center=true&vCenter=true&width=520&lines=%24+whoami;%3E+an+engineer+in+the+making;%24+ls+interests%2F;%3E+software+systems%2C+web%2C+problem+solving;%24+status+--current;%3E+learning%2C+building%2C+repeating."
+    alt="Animated developer terminal"
   />
 </p>
 
-<br>
+<table align="center" width="85%">
+  <tr>
+    <td bgcolor="#0B1020">
+      <pre>
+<span>  NABIL.OS  /  DEVELOPER ENVIRONMENT</span>
 
-<p align="center">
-  <sub>CONTRIBUTION CALENDAR</sub>
-  <br><br>
-  <a href="https://github.com/njhbil">
-    <img
-      src="https://ghchart.rshah.org/7DD3FC/njhbil"
-      alt="GitHub contribution calendar for njhbil"
-      width="100%"
-    />
-  </a>
-</p>
+  FOCUS       Software & Web Development
+  APPROACH    Understand → Build → Refine
+  PRINCIPLE   Clarity over complexity
+  STATUS      Always a work in progress
+
+  <span>●</span> Exploring what comes next...
+      </pre>
+    </td>
+  </tr>
+</table>
 
 <br>
 
