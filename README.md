@@ -79,23 +79,30 @@
 
 <br>
 
-<!-- ======================= PROJECTS ====================== -->
+<!-- ===================== APPROACH ======================== -->
 
-<h2 align="center">03 &nbsp; / &nbsp; SELECTED WORK</h2>
+<h2 align="center">03 &nbsp; / &nbsp; HOW I BUILD</h2>
+
+<p align="center">
+  <sub>THOUGHTFUL BY DESIGN. PRACTICAL BY NATURE.</sub>
+</p>
 
 <table>
   <tr>
-    <td width="100%">
-      <p>
-        <strong>◈ &nbsp; CegahScam</strong>
-      </p>
-      A digital-safety concept designed to help people recognize potential scams,
-      analyze suspicious messages, access reporting guidance, and improve
-      their awareness of online threats.
-      <br><br>
-      <code>WEB DEVELOPMENT</code>
-      &nbsp;
-      <code>PROBLEM SOLVING</code>
+    <td width="33%" valign="top">
+      <p><code>01 / THINK</code></p>
+      <h3>Understand</h3>
+      Start with the problem, question assumptions, and figure out what actually needs to be solved.
+    </td>
+    <td width="33%" valign="top">
+      <p><code>02 / BUILD</code></p>
+      <h3>Keep It Clear</h3>
+      Turn ideas into understandable code, structured systems, and interfaces that make sense.
+    </td>
+    <td width="33%" valign="top">
+      <p><code>03 / REFINE</code></p>
+      <h3>Make It Better</h3>
+      Test, learn from mistakes, and improve the details that make software more reliable.
     </td>
   </tr>
 </table>
@@ -127,9 +134,7 @@
 <!-- ======================== FOOTER ======================= -->
 
 <p align="center">
-  <samp>
-    BUILD WITH PURPOSE. REFINE WITH EVERY ITERATION.
-  </samp>
+  <samp>BUILD WITH PURPOSE. REFINE WITH EVERY ITERATION.</samp>
 </p>
 
 <p align="center">
